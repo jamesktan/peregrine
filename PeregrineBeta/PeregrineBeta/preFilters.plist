@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>   </string>
+	<string>Browder</string>
+	<string>Head</string>
+	<string>Neck</string>
+	<string>Anterior Chest</string>
+	<string>Posterior Chest</string>
+	<string>Left Upper Arm</string>
+	<string>Left Lower Arm</string>
+	<string>Left Hand</string>
+	<string>Right Upper Arm</string>
+	<string>Right Lower Arm</string>
+	<string>Right Hand</string>
+	<string>Genitals</string>
+	<string>Left Thigh</string>
+	<string>Right Thigh</string>
+	<string>Left Leg</string>
+	<string>Right Leg</string>
+	<string>Right Foot</string>
+	<string>Left Foot</string>
+	<string>Left Buttock</string>
+	<string>Right Buttock</string>
+	<string>None</string>
+</array>
+</plist>

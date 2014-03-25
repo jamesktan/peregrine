@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Pre-Injury Conditions: None</string>
+	<string>Neurologic</string>
+	<string>Disability/Handicap</string>
+	<string>Vision</string>
+	<string>Hearing</string>
+	<string>Cardiovascular</string>
+	<string>Pulmonary</string>
+	<string>ABD/GI</string>
+	<string>Genitourinary</string>
+	<string>Musculoskeletory</string>
+	<string>Substance Abuse</string>
+	<string>ETOH</string>
+	<string>Smoking</string>
+	<string>Psychiatric</string>
+	<string>Infection</string>
+	<string>Trauma</string>
+	<string>Other</string>
+</array>
+</plist>

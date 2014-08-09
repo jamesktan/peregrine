@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Step 1</string>
+	<string>Calculate Body Surface Area using Dubois-Dubois Eqn:</string>
+	<string>bsa_value = (weightkg^0.425 x heightcm^0.725)/139.2)</string>
+	<string>weightkg = weight1, heightcm = height1</string>
+	<string>bsa_value = bsa1</string>
+	<string></string>
+	<string>Step 2</string>
+	<string>Calculate total volume for Parkland Fluids in mL:</string>
+	<string>parkland = (4 mL * weightkg * tbsa)</string>
+	<string>parkland = park1</string>
+	<string>tbsa = tbsa1</string>
+	<string></string>
+	<string>NB Give half over first 8 hours, other half over second 16 hours.\n\n</string>
+	<string>FIrst 8 Hours: parkland/2/8 =&gt; park1_8hours</string>
+	<string>Second 16 Hours: parkland/2/16 =&gt; park1_16hours</string>
+	<string></string>
+	<string>Step3</string>
+	<string>Calculate maintenance rate in mL/hour. The goal in fluid resuscitation is to titrate the fluid rate down from Parkland rate to maintenance rate! (while keeping urine output btwn 30-60 mL/hour)</string>
+	<string>evap = (25 + tbsa) * bsa_val //evaporative rate in mL/hour </string>
+	<string>evap = evap1</string>
+	<string>basal = (1500 * bsa_val)/24; //basal rate in mL/hour </string>
+	<string>basal = basal1</string>
+	<string>maint = evap + basal;  //maintenance rate in mL/hour</string>
+	<string>maint = maint1</string>
+	<string></string>
+</array>
+</plist>
